@@ -1,0 +1,40 @@
+#show_sketch {
+    float: right;
+}
+
+.your_sketch {
+    font-size: large;
+}
+
+.Confidence {
+    font-size: large;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+#title {
+    background-color: aliceblue;
+}
+
+#score {
+    margin-left: 10px;
+    float: left;
+    font-size: large;
+}
+
+#timer {
+    margin-right: 10px;
+    float: right;
+    font-size: large;
+}
+
+#draw {
+    color: red;
+    font-size: larger;
+    font: bold;
+}
+canvas {
+    border-radius: 10px;
+}
